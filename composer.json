@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/guzzlehttp-guzzle",
-    "description": "Tyhp type definitions for guzzlehttp/guzzle 7.15.5.",
+    "description": "Tyhp type definitions for guzzlehttp/guzzle 8.2.0.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "7.15.5",
+    "version": "8.2.0",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/guzzlehttp-guzzle-impl": "~7.15.5.0"
+        "tyhpdef/guzzlehttp-guzzle-impl": "~8.2.0.0"
     },
     "extra": {
         "tyhp": {

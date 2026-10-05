@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/guzzlehttp-guzzle
 
-Tyhp type definitions for `guzzlehttp/guzzle` `7.15.5`.
+Tyhp type definitions for `guzzlehttp/guzzle` `8.2.0`.
 
 ```bash
-composer require --dev tyhpdef/guzzlehttp-guzzle:7.15.5
+composer require --dev tyhpdef/guzzlehttp-guzzle:8.2.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/guzzlehttp-guzzle-impl` (type files).
